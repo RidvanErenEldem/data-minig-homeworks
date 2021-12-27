@@ -1,0 +1,14 @@
+Bu dataset deniz kulağı (abalone) yaşını tahmin etmek için kullanılıyor
+dataset link -> https://archive.ics.uci.edu/ml/datasets/Abalone
+
+	Name
+	----
+	Gender -> Cinsiyet
+	Length	-> En uzun kabuk ölçümü
+	Diameter -> uzunluğa dik ölçümü
+	Height	-> et ve kabuğun uzunluğu
+	Whole weight -> toplam ağırlık
+	Shucked weight -> etin ağırlığı
+	Viscera weight -> kanamadan sonraki ağırlık
+	Shell weight -> kurudukdan sonraki ağırlık
+	Rings -> +1.5 yıl olarak yaşı verir
