@@ -1,0 +1,16 @@
+dataset linki: http://archive.ics.uci.edu/ml/datasets/Online+Retail
+
+Bu dataseti 01/12/2010 ile 09/12/2011 arasındaki ingiltere bazlı bir online alışveriş sitesindeki işlemleri
+içeriyor
+
+InvoiceNo: Fatura numarası 6 haneli benzersiz bir sayı c ile başlıyor ise işlem iptal edilmiş demektir
+StockCode: Ürünün kodu 5 haneli benzersiz bir sayı
+Description: Ürün adı
+Quantity: Ürün sayısı
+InvoiceDate: Gerçekleşen tarih
+UnitPrice: Fiyat
+CustomerID: Müşteri numarası 5 haneli benzersiz
+Country: Ülke adı
+
+Dataset hakkında not: dataset büyük olduğu için işlemler uzun sürüyor ve hatta bazı ülkelerde bellek
+yetersizliğinden dolayı hata alınabiliniyor (Örneğin Japonya verilerini işlemek için 167 GB lık bellek gerekiyor)
